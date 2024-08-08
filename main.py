@@ -5,7 +5,7 @@ import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
 bot_token = '7285744313:AAF1jv3pc9w_BA-_GzX7L1X0Vq6Zndt2Kvs'
-chat_id = '599532873'
+chat_id = '700063636'
 
 # Инициализация бота
 bot = telebot.TeleBot(bot_token)
